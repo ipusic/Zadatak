@@ -1,18 +1,18 @@
 body {
-    background-color: rgb(154, 150, 144);
+    background-color: white; /* make it simple :) */
 }
 h1 {
     color: rgb(134, 101, 108);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
-    margin: auto; 
+    margin: auto;
 }
 p{
     color: #67487a;
     font-size: 40px;
 }
 li{
-    color:rgb(114, 92, 203); 
+    color:rgb(114, 92, 203);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
