@@ -12,8 +12,15 @@ p{
     color: #67487a;
     font-size: 2em;
 }
-li{
-    color:rgb(114, 92, 203);
+di, dd{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 2em;
+}
+
+di {
+		font-size: 3em;
+		color:rgb(114, 92, 203);
+}
+dd {
+		font-size: 2em;
+		color: #67487a;
 }
