@@ -1,18 +1,19 @@
 body {
     background-color: yellow; /* I changed my mind: make it like lemon :) */
+    font-size: 1em;
 }
 h1 {
     color: #240023;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 50px;
+    font-size: 4em;
     margin: auto;
 }
 p{
     color: #67487a;
-    font-size: 40px;
+    font-size: 2em;
 }
 li{
     color:rgb(114, 92, 203);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 30px;
+    font-size: 2em;
 }
